@@ -1,0 +1,16 @@
+html,body{
+  height: 100%;
+}
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+  background:url('http://feelgrafix.com/data_images/out/8/812114-free-nebula-wallpaper.jpg') top center no-repeat #000;
+  background-size: cover;
+}
+
+#root{
+  height: 100%;
+}
+
+
